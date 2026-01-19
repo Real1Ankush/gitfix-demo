@@ -23,9 +23,8 @@ graph TD
     G --> I
     H --> I
     I --> J[📧 Email Notification to Admin]
-
-
-```🧠 How It Works
+```
+**`## 🧠 How It Works`**
 The system operates on a Logic-First pipeline:
 
 Trigger: Watches for new issues in real-time.
